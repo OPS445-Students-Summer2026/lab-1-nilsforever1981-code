@@ -41,12 +41,12 @@ OK
 OPS445 Lab Report - System Information for running ./CheckLab1.py
 =================================================================
     User login name: chaozhang
-    Git Email: nilsforever1981@gmail.com
+    Git Email: nilsforever1981@myseneca.ca
     Linux system name: chaozhang-VB
     Python executable: /usr/bin/python3
     Python version:  3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]
     VS Code version:  1.119.0 646
     OS Platform: linux
     Working Directory: /home/chaozhang/ops445/lab1
-    Start at: Fri May 15 15:33:06 2026
+    Start at: Fri May 15 15:35:42 2026
 =================================================================
